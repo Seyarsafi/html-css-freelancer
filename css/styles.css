@@ -14,8 +14,7 @@ nav ul{
    list-style: none;
    justify-content: center;
    margin-left:450px;
-color: grey;
-
+margin-top: 16px;
 }
 nav a{
    text-decoration: none;
@@ -54,6 +53,10 @@ h1{
    display: flex;
    justify-content: space-between;
 
+
+}
+.portfolio p, h2{
+   margin-top: 4px;
 }
 main{
    width: 940px;
@@ -67,6 +70,7 @@ main{
 }
 .team img{
    border-radius: 50%;
+
 }
 footer{
    border-top: 1px solid lightgrey;
@@ -74,6 +78,7 @@ footer{
    color: lightgrey;
    display: flex;
    justify-content: space-between;
+   margin-top:100px;
 }
 .profile h3{
    color: #f0454c;
