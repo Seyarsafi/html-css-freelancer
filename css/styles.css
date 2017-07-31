@@ -181,6 +181,7 @@ span{
 footer .icons{
    margin: 10px;
    padding: 10px;
+   font-size: 18px,
 
 }
 footer .fa{
@@ -189,6 +190,7 @@ footer .fa{
 }
 nav .fa{
    color: crimson;
+   font-size: 25px;
 }
 footer .fa:hover{
    color: black;
